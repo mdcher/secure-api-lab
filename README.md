@@ -44,3 +44,57 @@ npm test
 
 ## Посилання на репозиторій
 https://github.com/mdcher/secure-api-lab.git
+
+## Скріншоти
+
+Завдання 2:
+
+![Task 2.3.1](LabScr/2.1.jpg)
+
+![Task 2.3.2](LabScr/2.2.jpg)
+
+![Task 2.3.3](LabScr/2.3.jpg)
+
+![Task 2.3.4](LabScr/2.4.jpg)
+
+Завдання 3:
+
+![Task 3.4.1](LabScr/3.1.jpg)
+
+![Task 3.4.2](LabScr/3.2.jpg)
+
+![Task 3.4.3](LabScr/3.3.jpg)
+
+![Task 3.4.4](LabScr/3.4.jpg)
+
+Завдання 4:
+
+![Task 4.3.1](LabScr/4.1.jpg)
+
+![Task 4.3.2](LabScr/4.2.jpg)
+
+![Task 4.3.3](LabScr/4.3.jpg)
+
+![Task 4.3.4](LabScr/4.4.jpg)
+
+Завдання 5:
+
+![Task 5.2.1](LabScr/5.1.jpg)
+
+![Task 5.2.2](LabScr/5.2.jpg)
+
+![Task 5.2.3](LabScr/5.3.jpg)
+
+![Task 5.2.4](LabScr/5.4.jpg)
+
+![Task 5.2.5](LabScr/5.5.jpg)
+
+![Task 5.2.6](LabScr/5.6.jpg)
+
+![Task 5.2.7](LabScr/5.7.jpg)
+
+![Task 5.2.8](LabScr/5.8.jpg)
+
+![Task 5.2.9](LabScr/5.9.jpg)
+
+![Task 5.2.10](LabScr/5.10.jpg)
