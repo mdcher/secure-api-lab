@@ -43,3 +43,4 @@ npm test
 | GET | /employees | Отримати список працівників (доступно лише адміну) | X-Login, X-Password | — | 200 OK — успішно<br>403 Forbidden — доступ лише для адміністратора<br>401 Unauthorized — неправильні дані |
 
 ## Посилання на репозиторій
+https://github.com/mdcher/secure-api-lab.git
